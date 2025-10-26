@@ -6,5 +6,3 @@ def  cube_roll():
 
 def roll_two_rounds():
     return  (cube_roll(), cube_roll())
-
-print(roll_two_rounds())
